@@ -1,2 +1,2 @@
 # node-ec2
-Deploying a NodeJS app to  AWS Elastic Compute Cloud
+This project focuses on how to deploy a NodeJS app to  AWS Elastic Compute Cloud 
