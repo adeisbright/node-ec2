@@ -3,3 +3,4 @@ logs/
 .DS_STORE 
 dist
 build
+.env
