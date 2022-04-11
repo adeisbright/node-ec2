@@ -4,7 +4,8 @@
   "description": "A NodeJS app on EC2",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
   },
   "author": "Adeleke Bright",
   "license": "ISC",
